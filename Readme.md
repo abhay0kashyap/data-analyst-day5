@@ -1,11 +1,3 @@
-DAY 5 REPORT (MANDATORY)
-
-Create file:
-
-day5-report.md
-
-Paste this:
-
 Day 5 Report – EDA, Dashboard, and Scenario Analysis
 1. Setup Status
 Executed Python script using pandas, seaborn, matplotlib, and numpy
